@@ -47,5 +47,11 @@ My approach goes beyond simple code: I am passionate about creating products tha
   <img src="https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white">
 </span>
 
+<div align="center">
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=AndyContreras&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Andy-Contreras)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Andy-Contreras&theme=material-palenight)](https://github.com/Andy-Contreras)
+</div>
 
 
